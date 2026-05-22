@@ -30,3 +30,6 @@ pip install -r requirements.txt
 ```
 pytest -v
 ```
+
+4. Логирование
+Каждое обращение к API и ответы фиксируются в лог-файлах в папке /logs
